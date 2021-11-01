@@ -1,7 +1,5 @@
 [![Build Status](https://github.com/AlessandroScrem/ci-demo/actions/workflows/test.yml/badge.svg)](https://github.com/AlessandroScrem/ci-demo/actions/workflows/test.yml)
 [![Coverage Status](https://coveralls.io/repos/github/AlessandroScrem/ci-demo/badge.svg?branch=main)](https://coveralls.io/github/AlessandroScrem/ci-demo?branch=main)
-
-Platform | CI Status
 [![](http://github-actions.40ants.com/AlessandroScrem/ci-demo/matrix.svg)](https://github.com/AlessandroScrem/ci-demo/)
 
 
