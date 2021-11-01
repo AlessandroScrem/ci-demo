@@ -45,3 +45,4 @@ jobs:
         source venv/bin/activate
         pip install --upgrade pip setuptools cpp-coveralls
         coveralls -E ".*CMakeFiles.*" -E ".*test/.*.cpp.*" --exclude "venv" --exclude "build/_deps"
+        
