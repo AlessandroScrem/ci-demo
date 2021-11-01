@@ -1,18 +1,10 @@
-[![Build Status](https://github.com/bast/gtest-demo/actions/workflows/test.yml/badge.svg)](https://github.com/bast/gtest-demo/actions/workflows/test.yml)
-[![Coverage Status](https://coveralls.io/repos/bast/gtest-demo/badge.png?branch=master)](https://coveralls.io/r/bast/gtest-demo?branch=master)
-[![License](https://img.shields.io/badge/license-%20BSD--3-blue.svg)](../master/LICENSE)
-
+[![Build Status](https://github.com/AlessandroScrem/ci-demo/actions/workflows/test.yml/badge.svg)](https://github.com/AlessandroScrem/ci-demo/actions/workflows/test.yml)
 
 # gtest-demo
 
 C/C++ unit test demo using [Google Test](https://code.google.com/p/googletest)
 with continuous integration provided by [GitHub
-Actions](https://docs.github.com/en/actions) and test coverage deployed to
-[Coveralls](https://coveralls.io/r/bast/gtest-demo).
-
-- [Build and test history](https://github.com/bast/gtest-demo/actions)
-- [Code coverage](https://coveralls.io/r/bast/gtest-demo)
-- Licensed under [BSD-3](../master/LICENSE)
+Actions](https://docs.github.com/en/actions) 
 
 
 ## How to build this demo
